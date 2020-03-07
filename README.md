@@ -8,6 +8,8 @@ Used in a Udacity course in the Android Basics Nanodegree.
 The data is retrieved from the USGS service.
 https://earthquake.usgs.gov/fdsnws/event/1/
 
+This project was created by BOUCHEMEL Nasrddine through Udacity course
+
 Pre-requisites
 --------------
 
@@ -32,6 +34,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 
 License
 -------
+This project was created by BOUCHEMEL Nasrddine through Udacity course
 
 Copyright 2016 The Android Open Source Project, Inc.
 
